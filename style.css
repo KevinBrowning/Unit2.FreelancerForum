@@ -1,0 +1,21 @@
+#contentBox{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: auto;
+  width: fit-content;
+  text-align: center;
+  padding: 10pt;
+  border: solid black;
+  border-radius: 10%;
+  background-color: aqua;
+}
+#workersBox{
+  display: flex;
+  text-align: center;
+  margin: auto;
+  flex-direction: column;
+}
+ul{
+  list-style: none;
+}
